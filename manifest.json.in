@@ -1,0 +1,15 @@
+{
+    "name": "networkstatus.xiaoguo",
+    "description": "description of networkstatus",
+    "architecture": "@CLICK_ARCH@",
+    "title": "networkstatus",
+    "hooks": {
+        "networkstatus": {
+            "apparmor": "networkstatus/networkstatus.apparmor",
+            "desktop": "networkstatus/networkstatus.desktop"
+        }
+    },
+    "version": "0.2",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework": "ubuntu-sdk-15.04"
+}

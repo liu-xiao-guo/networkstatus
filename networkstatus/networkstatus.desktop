@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=networkstatus
+Exec=networkstatus
+Icon=networkstatus/networkstatus.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

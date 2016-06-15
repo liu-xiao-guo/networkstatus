@@ -9,7 +9,7 @@
             "desktop": "networkstatus/networkstatus.desktop"
         }
     },
-    "version": "0.2",
+    "version": "0.3",
     "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
     "framework": "ubuntu-sdk-15.04"
 }
